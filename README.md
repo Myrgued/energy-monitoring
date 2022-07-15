@@ -3,7 +3,7 @@
 ## Components
 
 ### Gas
-- Itron Cyble Sensor v2 (K1), 2-pole
+- Itron Cyble Sensor v2 (KLF: 1), 2-pole
 - Homematic HM-ES-TX-WM
 - Homematic CCU3
 
